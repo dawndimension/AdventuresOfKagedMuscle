@@ -1410,6 +1410,4 @@ var UnityLoader = UnityLoader || {
         },
       },
     };
-  } (),
-
-};
+  } (),};

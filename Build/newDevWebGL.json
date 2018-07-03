@@ -9,9 +9,5 @@
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#231F20",
-"hosting": {
-     "public": "public",
-     "trailingSlash": false
-   }
+"backgroundColor": "#231F20"
 }
